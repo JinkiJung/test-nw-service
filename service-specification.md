@@ -1,7 +1,7 @@
 ---
 titlepage: true
 toc-own-page: true
-title: "Service specification for XYZ service"
+title: "Service specification for Test Navigational Warning service"
 author: [MCP Consortium]
 date: "2021-04-21"
 keywords: [Maritime technical service, MCP, Service registry]
@@ -10,7 +10,7 @@ titlepage-text-color: "476E7D"
 footer-center: "G1128 Service Specification"
 ...
 
-# Service specification for XYZ service
+# Service specification for Test Navigational Warning service
 <!-- Hey it is comment! This must be seen only at the source code editing.  -->
 
 ## Introduction
